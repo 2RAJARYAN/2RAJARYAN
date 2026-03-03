@@ -2,8 +2,9 @@
 
 <h1 align="center">Hi there, I'm Raj Aryan <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyj/giphy.gif" width="35px"/></h1>
 
-<h3 align="center">AI & ML Enthusiast | Generative AI Explorer</h3>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=600&lines=AI+%7C+ML+Enthusiast;Generative+AI+Explorer;Deep+Learning+Enthusiast;Quantum+Computing+Learner" />
+</p>
 <p align="center">
   <i>I am an enthusiastic learner passionate about Artificial Intelligence, Machine Learning, and Deep Learning. I enjoy exploring new ideas, building practical projects, and continuously improving my understanding of intelligent systems.</i>
 </p>
@@ -22,10 +23,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2RAJARYAN&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=2RAJARYAN&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=2RAJARYAN&show_icons=true&theme=transparent&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=2RAJARYAN&theme=transparent&hide_border=true" width="48%" />
 </p>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 <br/>
 
 ### 🛠️ Languages & Tools
@@ -76,7 +79,7 @@
 <h3 align="center">🎯 Core Interests</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Reinforcement%20Learning-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-DC143C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LLMs-1E90FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Quantum%20Computing-2E8B57?style=for-the-badge" />
 </p>
