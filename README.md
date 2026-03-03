@@ -24,7 +24,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=2RAJARYAN&show_icons=true&theme=transparent&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=2RAJARYAN&theme=transparent&hide_border=true" width="48%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/2RAJARYAN/2RAJARYAN/output/github-contribution-grid-snake.svg" />
 </p>
 <br/>
 
