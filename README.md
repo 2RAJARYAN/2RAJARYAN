@@ -1,6 +1,6 @@
 <div align="center">
-
-<h1 align="center">Hi there, I'm Raj Aryan <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyj/giphy.gif" width="35px"/></h1>
+  
+<h1 align="center">Hi there, I'm Raj Aryan 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=600&lines=AI+%7C+ML+Enthusiast;Generative+AI+Explorer;Deep+Learning+Enthusiast;Quantum+Computing+Learner" />
