@@ -21,7 +21,7 @@
 <br/>
 
 ### 📊 GitHub Stats
-
+<br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=2RAJARYAN&show_icons=true&theme=transparent&hide_border=true" width="48%" />
 </p>
