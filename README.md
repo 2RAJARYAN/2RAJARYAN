@@ -16,7 +16,7 @@
 * 🤖 Building an **emotionally aware chatbot**, applying transfer learning techniques to fine-tune models on SST-2 and GoEmotions.
 * 📈 Developing a **risk-aware portfolio optimization agent** using reinforcement learning to manage capital allocation and volatility.
 * 🧠 Deep diving into **Generative AI**, agentic systems, and LLM operations to understand the next wave of AI.
-* 🏠 Practicing end-to-end ML workflows using Kaggle datasets, starting with foundational projects like house price prediction.
+* 🏠 Practicing end-to-end ML workflows using Kaggle datasets, starting with foundational projects.
 
 <br/>
 
