@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm Raj Aryan 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=600&lines=AI+%7C+ML+Enthusiast;Generative+AI+Explorer;Deep+Learning+Enthusiast;Quantum+Computing+Learner" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=AI+%7C+ML+Engineer;Generative+AI+Explorer;Deep+Learning+Enthusiast;Quantum+Computing+Learner" />
 </p>
 <p align="center">
   <i>I am an enthusiastic learner passionate about Artificial Intelligence, Machine Learning, and Deep Learning. I enjoy exploring new ideas, building practical projects, and continuously improving my understanding of intelligent systems.</i>
