@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=ML+%7C+DL+Enthusiast;Generative+AI+Explorer;Deep+Learning+Enthusiast;Quantum+Computing+Learner" />
 </p>
 <p align="center">
-  <i>I am an enthusiastic learner passionate about Artificial Intelligence, Machine Learning, and Deep Learning. I enjoy exploring new ideas, building practical projects, and continuously improving my understanding of intelligent systems.</i>
+  <i>I am an enthusiastic learner, passionate about Artificial Intelligence, Machine Learning, and Deep Learning. I enjoy exploring new ideas, building practical projects, and continuously improving my understanding of intelligent systems.</i>
 </p>
 
 ---
